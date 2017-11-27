@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<build>
+    <hello>o</hello>
+    <program>exe</program>
+    <temp>o</temp>
+</build>
+<log>
+    <log>txt</log>
+</log>
+<output>
+    <output>txt</output>
+</output>
+<score>txt</score>
+<source>
+    <hello>h</hello>
+    <temp>cpp</temp>
+</source>

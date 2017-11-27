@@ -1,0 +1,4 @@
+temp.cpp: In function 'int foo()':
+temp.cpp:7:1: error: expected ';' before '}' token
+ }
+ ^

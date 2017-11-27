@@ -1,0 +1,2 @@
+g++: error: hello.cpp: No such file or directory
+g++: error: temp.cpp: No such file or directory

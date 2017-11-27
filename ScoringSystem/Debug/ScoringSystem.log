@@ -1,0 +1,8 @@
+﻿  Compiler.cpp
+d:\scoringsystem\scoringsystem\compiler.cpp(8): warning C4018: '<': signed/unsigned mismatch
+d:\scoringsystem\scoringsystem\compiler.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\scoringsystem\scoringsystem\compiler.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\scoringsystem\scoringsystem\compiler.cpp(123): warning C4101: 'hThread': unreferenced local variable
+d:\scoringsystem\scoringsystem\compiler.cpp(122): warning C4101: 'hProcess': unreferenced local variable
+  ScoringSystem.vcxproj -> D:\ScoringSystem\Debug\ScoringSystem.exe
+  ScoringSystem.vcxproj -> D:\ScoringSystem\Debug\ScoringSystem.pdb (Partial PDB)
